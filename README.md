@@ -2,10 +2,6 @@
 
 A responsive software engineering and full-stack developer portfolio featuring selected projects, open-source contributions, technical skills, education, and contact information.
 
-## Preview
-
-[View the portfolio](https://janith-dasanayaka.djanith00.chatgpt.site)
-
 ## Run locally
 
 This is a static website with no build step. Serve the `dist` directory with a local web server:
